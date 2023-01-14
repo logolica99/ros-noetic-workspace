@@ -1,2 +1,15 @@
 # Hashes of file build rules.
+e743b033ee77436138cccac0c087f788 /home/logolica99/catkin_ws/devel/include/ros_vosk/speech_recognition.h
+ecc3c7227e6fd8fe59a032da09860dca /home/logolica99/catkin_ws/devel/lib/python3/dist-packages/ros_vosk/msg/__init__.py
+9455e680484bb8f4e958d593eaf2cd16 /home/logolica99/catkin_ws/devel/lib/python3/dist-packages/ros_vosk/msg/_speech_recognition.py
+7c25fc105b5b68554955b802aa0b8c59 /home/logolica99/catkin_ws/devel/share/common-lisp/ros/ros_vosk/msg/speech_recognition.lisp
+8c00f0235f18f0e1092d4e36380537e1 /home/logolica99/catkin_ws/devel/share/gennodejs/ros/ros_vosk/msg/speech_recognition.js
+e82b91ea71b95466c93e3adcb1cb8968 /home/logolica99/catkin_ws/devel/share/roseus/ros/ros_vosk/manifest.l
+d197c7ab7f5ddb957901f2df186af957 /home/logolica99/catkin_ws/devel/share/roseus/ros/ros_vosk/msg/speech_recognition.l
 82002b1943b2992ffbeeeb43cf7ccd37 CMakeFiles/clean_test_results
+8096859ccb5d5a90fb7cb258b23c0a24 ros-vosk/CMakeFiles/_ros_vosk_generate_messages_check_deps_speech_recognition
+8f610a38beaf631edac61c7a30df52c5 ros-vosk/CMakeFiles/ros_vosk_generate_messages_cpp
+8f610a38beaf631edac61c7a30df52c5 ros-vosk/CMakeFiles/ros_vosk_generate_messages_eus
+8f610a38beaf631edac61c7a30df52c5 ros-vosk/CMakeFiles/ros_vosk_generate_messages_lisp
+8f610a38beaf631edac61c7a30df52c5 ros-vosk/CMakeFiles/ros_vosk_generate_messages_nodejs
+8f610a38beaf631edac61c7a30df52c5 ros-vosk/CMakeFiles/ros_vosk_generate_messages_py

@@ -1,0 +1,8 @@
+prefix=/home/logolica99/catkin_ws/devel
+
+Name: arduino_test
+Description: Description of arduino_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
